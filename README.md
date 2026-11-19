@@ -12,3 +12,7 @@ Developer based in France. I focus on **application security** and **agentic cod
 ## 🧰 Stack
 
 C# · .NET · Angular · TypeScript · Azure · Docker · SQL Server
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/damien-legoullon)
